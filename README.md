@@ -3,6 +3,7 @@
 Listary 可以通过自定义关键字实现对各网站的高效搜索。目前整理的配置有：
 
 ```
+bili | Search bilibili for '{query}' | https://search.bilibili.com/all?keyword={query}
 github | Search github for '{query}' | https://github.com/search?utf8=%E2%9C%93&q={query}&type=Repositories
 jd | Search jd for '{query}' | https://search.jd.com/Search?keyword={query}&enc=utf-8
 taobao | Search taobao for '{query}' | https://s.taobao.com/search?q={query}
