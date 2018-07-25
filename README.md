@@ -8,6 +8,9 @@ github | Search github for '{query}' | https://github.com/search?utf8=%E2%9C%93&
 jd | Search jd for '{query}' | https://search.jd.com/Search?keyword={query}&enc=utf-8
 taobao | Search taobao for '{query}' | https://s.taobao.com/search?q={query}
 zhihu | Search zhihu for '{query}' | https://www.zhihu.com/search?type=content&q={query}
+fy | 谷歌翻译'{query}' | https://translate.google.com/#auto/zh-CN/{query}
+yd | 有道词典'{query}' | http://dict.youdao.com/search?q={query}&keyfrom=dict.plugin
+cpp | cppreference'{query}' | https://zh.cppreference.com/mwiki/index.php?title=Special:%E6%90%9C%E7%B4%A2&search={query}
 ```
 
 打开Listary => 选项 => 关键字，点击“批量添加”，将上面的文本复制进去，然后点击“确定”即可。
